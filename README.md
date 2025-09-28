@@ -17,9 +17,14 @@ Construir una aplicación que:
 - **Tiempo estimado**: 15 minutos
 
 ## Estructura del Proyecto
-![]()
 
-## 🚀 Inicialización del Proyecto
+![](https://github.com/hakki17/JPA/blob/main/img/README/1.tree.png)
+
+## Arquitectura
+
+![](https://github.com/hakki17/JPA/blob/main/img/README/4.arquitectura.png)
+
+## Inicialización del Proyecto
 
 ### Opción 1: Spring Initializr
 1. Navegar a [https://start.spring.io](https://start.spring.io)
@@ -125,7 +130,9 @@ java -jar build/libs/gs-accessing-data-jpa-0.1.0.jar
 
 ## Salida Esperada
 
-![]()
+![](https://github.com/hakki17/JPA/blob/main/img/README/3.build.png)
+
+![](https://github.com/hakki17/JPA/blob/main/img/README/2.output.png)
 
 ## Operaciones Demostradas
 
